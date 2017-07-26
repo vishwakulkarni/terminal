@@ -1,0 +1,23 @@
+{
+  "name": "terminal",
+  "version": "1.0.0",
+  "description": "my terminal app",
+  "main": "ternal.js",
+  "dependencies": {
+    "web-terminal": "^0.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishwakulkarni/terminal.git"
+  },
+  "author": "vishwa kulkarni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishwakulkarni/terminal/issues"
+  },
+  "homepage": "https://github.com/vishwakulkarni/terminal#readme"
+}
